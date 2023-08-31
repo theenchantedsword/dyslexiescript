@@ -20,6 +20,9 @@ function init() {
       p{
         font-family: 'Dyslexie' !important;
       }
+      a{
+        font-family: 'Dyslexie' !important;
+      }
       
       @font-face {
         font-family: 'Dyslexie';
